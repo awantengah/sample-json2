@@ -1,23 +1,23 @@
 {
-    "store": [{
-            "code": "05bd8d2a-e6a9-4b40-9899-76b6da26d981",
-            "name": "Beauty Skin & Body Care Shop",
-            "desc": "-",
-            "address": "-",
-            "phone": "085399009900",
-            "photo": "",
-            "latitude": "",
-            "longitude": "",
-        },
-        {
-            "code": "05bd8d2a-e6a9-4b40-9899-76b6da26d890",
-            "name": "Al Fatih Chicken",
-            "desc": "-",
-            "address": "-",
-            "phone": "085333442233",
-            "photo": "",
-            "latitude": "",
-            "longitude": "",
-        }
-    ]
+	"store": [{
+			"code": "05bd8d2a-e6a9-4b40-9899-76b6da26d981",
+			"name": "Beauty Skin & Body Care Shop",
+			"desc": "-",
+			"address": "-",
+			"phone": "085399009900",
+			"photo": "",
+			"latitude": "",
+			"longitude": ""
+		},
+		{
+			"code": "05bd8d2a-e6a9-4b40-9899-76b6da26d890",
+			"name": "Al Fatih Chicken",
+			"desc": "-",
+			"address": "-",
+			"phone": "085333442233",
+			"photo": "",
+			"latitude": "",
+			"longitude": ""
+		}
+	]
 }
