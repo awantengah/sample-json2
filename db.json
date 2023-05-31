@@ -1,5 +1,6 @@
 {
-	"store": [{
+	"merchant": [{
+			"id": 1,
 			"code": "05bd8d2a-e6a9-4b40-9899-76b6da26d981",
 			"name": "Beauty Skin & Body Care Shop",
 			"desc": "-",
@@ -10,6 +11,7 @@
 			"longitude": ""
 		},
 		{
+			"id": 2,
 			"code": "05bd8d2a-e6a9-4b40-9899-76b6da26d890",
 			"name": "Al Fatih Chicken",
 			"desc": "-",
