@@ -21,5 +21,12 @@
 			"latitude": "",
 			"longitude": ""
 		}
-	]
+	],
+	"admin": {
+		"id": 1,
+		"name": "Super Administrator",
+		"username": "superadmin",
+		"password": "05bd8d2ae6a94b40989976b6da26d981",
+		"level": 1
+	}
 }
